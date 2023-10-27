@@ -1,0 +1,11 @@
+/* Write your CSS here */
+
+.bg-dark {
+  background-color: black;
+  color: white;
+}
+
+.bg-white {
+  background-color: white;
+  color: black;
+}
